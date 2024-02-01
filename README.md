@@ -4,5 +4,6 @@
 
 ## Navbar Style fix
 
-<video src="./video.mp4" controls>
+<video src="./navbar.webm" controls>
+ Your browser does not support the video tag.
 </video>
