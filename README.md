@@ -68,4 +68,4 @@ Something like what I've implemented in following pull request but with current 
 
 #### At some places, look can be enhanced by making element visible when it comes into viewport.
 
-## I propose to do these changes in html and css. Please give it a thought and pick and choose what do you want.
+## I propose to do these changes in html and css. Please give it a thought and pick and choose what do you want. Also, during making cahnges I'll be taking your opinions time to time.
