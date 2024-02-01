@@ -4,5 +4,5 @@
 
 ## Navbar Style fix
 
-<video src="./navbar.webm" controls>
+<video src="./video.mp4" controls>
 </video>
